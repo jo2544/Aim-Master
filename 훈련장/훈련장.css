@@ -1,0 +1,37 @@
+/*body {
+	
+	}
+ */    
+.jb-box { 
+	width: 100%; 
+	height: 500px; 
+	margin: 0px auto; 
+	position: relative; 
+}
+      
+video { 
+	width: 100%; 
+	display : block; 
+}
+      
+.jb-text { 
+	position: absolute; 
+	top: 50%; 
+	width: 100%; 
+}
+.jb-text p { 
+	margin-top: -24px; 
+	text-align: center; 
+	font-size: 48px; 
+	color: #ffffff; 
+}
+.video{
+	width: 100%;
+	height: 100%;
+}
+
+.훈련장-1 {
+	position:absolute;
+	width:100%;
+	height:100%;
+}
