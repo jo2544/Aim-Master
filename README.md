@@ -1,3 +1,3 @@
 # Aim Master
-## 메인화면
-![메인화면](screenshot/메인화면.png)
+## 반응형
+![반응형](screenshot/반응형.png)
