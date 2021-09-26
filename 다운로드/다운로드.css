@@ -17,24 +17,9 @@ body {
 	border-bottom-left-radius: 8px;
 	border-top-right-radius: 8px;
 	border-bottom-right-radius: 8px;
+	left: 750px;
 }
 
-.btn2 {
-	text-align: center;
-	
-}
-.btn3 {
-	height: 60px;
-	width: 400px;
-	position: absolute;
-	top:700px;
-	margin:auto;
-	left: 550px;
-	border-top-left-radius: 8px;
-	border-bottom-left-radius: 8px;
-	border-top-right-radius: 8px;
-	border-bottom-right-radius: 8px;
-}
 
 #btn_group button {
 	border: 1px solid skyblue;
