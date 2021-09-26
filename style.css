@@ -154,16 +154,31 @@ h1 {
 .main_text0 > .contents1 {
   text-align: center;
 }
-
-.more{
-  width:100px;
-  height: 30px;
-  background: #2F7AF4;
-  color: #fff;
-  font-size: 12px;
-  line-height: 30px;
-  margin:25px auto;
+.btn1 {
+	height: 60px;
+	width: 300px;
+	position: absolute;
+	top:1700px;
+	margin:auto;
+	left: 200px;
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
 }
+
+#btn_group button {
+	border: 1px solid skyblue;
+	background-color: rgba(0,0,0,0);
+	color:skyblue;
+	padding: 5px;
+}
+
+#btn_group button:hover {
+	color: white;
+	background-color: skyblue;
+}
+
 
 .main_text2 > ul {
   display: flex;
