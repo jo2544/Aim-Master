@@ -1,6 +1,6 @@
 body {	
 	height: 100vh;
-	background: url("rogo11.png") no-repeat center;
+	background: url("rogo.png") no-repeat center;
 	background-size: cover;
 }
 
@@ -8,5 +8,42 @@ body {
 	text-align: center;
 }
 .btn1 {
+	height: 60px;
+	width: 400px;
+	position: absolute;
+	top:700px;
+	margin:auto;
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+.btn2 {
 	text-align: center;
+	
+}
+.btn3 {
+	height: 60px;
+	width: 400px;
+	position: absolute;
+	top:700px;
+	margin:auto;
+	left: 550px;
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+#btn_group button {
+	border: 1px solid skyblue;
+	background-color: rgba(0,0,0,0);
+	color:skyblue;
+	padding: 5px;
+}
+
+#btn_group button:hover {
+	color: white;
+	background-color: skyblue;
 }
